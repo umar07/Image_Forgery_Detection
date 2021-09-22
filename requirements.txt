@@ -1,0 +1,6 @@
+opencv_python
+scipy
+pandas
+numpy
+scikit_learn
+skimage
