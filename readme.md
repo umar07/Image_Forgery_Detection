@@ -1,4 +1,4 @@
-#Image Forgery Detection
+# Image Forgery Detection
 
 With over 4.5 billion active internet users, the amount of multimedia content being shared every day has surpassed everyone’s imagination. Large-scale and pervading social media platforms, along with easily accessible smartphones, have given rise to huge visual data such as images, videos, etc. One of the perils accompanying this huge amount of data is manipulation and malicious intent to remove the authenticity
 of these media. The availability of various image-editing software and tools such as Photoshop, GIMP, etc., has made it possible to create forgeries with minimal effort. Today, it is quite easy to produce a manipulated media that looks indifferent to the human eyes. 
