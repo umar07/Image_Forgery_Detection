@@ -11,6 +11,14 @@ Techniques designed to detect these forgeries can be divided into two classes ba
 In this repository, I have tried to implement 5 papers of which are solving for image forgery detection using handcrafted features from images.
 There are 5 folders named after the authors containing the code for each paper. The datasets used are [CASIA 1.0](https://github.com/namtpham/casia1groundtruth), [CASIA 2.0](https://github.com/namtpham/casia2groundtruth), [Columbia Colored](https://www.ee.columbia.edu/ln/dvmm/downloads/AuthSplicedDataSet/AuthSplicedDataSet.htm), and [Columbia Uncompressed](https://www.ee.columbia.edu/ln/dvmm/downloads/authsplcuncmp/)
 
+#### Papers
+1. [Passive detection of image forgery using dct and local binary pattern by Alahmadi et al.](https://doi.org/10.1007/s11760-016-0899-0)
+2. [Image forgery detection based on statistical features of block dct coefficients by Shilpa et al.](https://www.sciencedirect.com/science/article/pii/S1877050920310048)
+3. [A novel forgery detection algorithm based on mantissa distribution in digital images by Arman et al.](https://ieeexplore.ieee.org/document/9349611)
+4. [A passive blind approach for image splicing detection based on dwt and lbp histograms by Mandeep et al.](https://link.springer.com/chapter/10.1007/978-981-10-2738-3_27)
+5. [A robust forgery detection method for copy–move and splicing attacks in images by Mohammad et al.](https://www.mdpi.com/2079-9292/9/9/1500)
+
+#### Results
 The reproduced results in terms of **accuracy** are shown below. The numbers in bracket represent the original results given in the papers.
 
 ![Reproduced Result](./results.png)
